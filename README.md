@@ -2,6 +2,7 @@
 
 **Sistem Informasi Inventori Toko Kelontong**
 Tugas RPL Studio, Tema 7: Sistem Manajemen Toko dan Inventori
+Tugas kelompok YCCTeam: Ulfa Mailani & Intan Mauli Zahra.
 
 StokKu adalah aplikasi web untuk mencatat dan memantau stok barang di toko kelontong. Aplikasi ini menggantikan pencatatan manual dengan data yang tersimpan rapi di database, sehingga stok yang tersedia, barang yang hampir habis, dan riwayat keluar masuk barang bisa dilihat kapan saja.
 
