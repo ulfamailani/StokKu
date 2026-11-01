@@ -14,6 +14,15 @@ StokKu adalah aplikasi web untuk mencatat dan memantau stok barang di toko kelon
 
 Semua pengguna wajib login terlebih dahulu. Setelah login, sistem mengarahkan ke menu sesuai peran.
 
+## Akun Login
+
+Gunakan akun berikut untuk mencoba aplikasi:
+
+| Peran | Username | Password |
+|-------|----------|----------|
+| **Admin** | `admin1` | `admin123` |
+| **Staf gudang** | `staf` | `staf123` |
+
 ## Fitur Utama
 
 - Login dan logout dengan pembagian peran (admin / staf gudang)
@@ -68,4 +77,3 @@ Semua pengguna wajib login terlebih dahulu. Setelah login, sistem mengarahkan ke
    php artisan serve
    ```
 6. Buka `http://127.0.0.1:8000` di browser
-
